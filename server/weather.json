@@ -1,0 +1,27 @@
+{
+    "mcpServers":{
+    "weather":{
+    "command": "uv",
+    "args": [
+        "run",
+        "mcp",
+        "run",
+        "server/weather.py"
+    ],
+    "env": {
+        "APPDATA": "C:\\Users\\user\\AppData\\Roaming",
+        "HOMEDRIVE": "C:",
+        "HOMEPATH": "\\Users\\user",
+        "LOCALAPPDATA": "C:\\Users\\user\\AppData\\Local",
+        "PATH": "C:\\Users\\user\\AppData\\Local\\npm-cache\\_npx\\5a9d879542beca3a\\node_modules\\.bin;C:\\Users\\user\\Desktop\\ML\\MCP_Complete\\node_modules\\.bin;C:\\Users\\user\\Desktop\\ML\\node_modules\\.bin;C:\\Users\\user\\Desktop\\node_modules\\.bin;C:\\Users\\user\\node_modules\\.bin;C:\\Users\\node_modules\\.bin;C:\\node_modules\\.bin;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\run-script\\lib\\node-gyp-bin;C:\\Users\\user\\Desktop\\ML\\MCP_Complete\\.venv\\Scripts;C:\\Users\\user\\Desktop\\ML\\MCP_Complete\\.venv/Scripts;c:\\Users\\user\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand;c:\\Users\\user\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli;C:\\Users\\user\\AppData\\Local\\Programs\\Microsoft VS Code;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\MinGW\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\MATLAB\\R2024a\\runtime\\win64;C:\\Program Files\\MATLAB\\R2024a\\bin;C:\\Graphviz-12.2.1-win64\\bin;C:\\ffmpeg\\ffmpeg-2025-09-04-git-2611874a50-essentials_build\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Program Files\\nodejs\\;C:\\Users\\user\\Downloads\\Release-25.12.0-0\\poppler-25.12.0\\Library\\bin;C:\\Program Files\\Tesseract-OCR;C:\\Users\\user\\.pyenv\\pyenv-win\\shims;C:\\Users\\user\\.pyenv\\pyenv-win\\bin;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python38\\;C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\user\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\user\\AppData\\Roaming\\npm",
+        "PROCESSOR_ARCHITECTURE": "AMD64",
+        "SYSTEMDRIVE": "C:",
+        "SYSTEMROOT": "C:\\WINDOWS",
+        "TEMP": "C:\\Users\\user\\AppData\\Local\\Temp",
+        "USERNAME": "user",
+        "USERPROFILE": "C:\\Users\\user",
+        "PROGRAMFILES": "C:\\Program Files"
+    }
+}
+    }
+}
